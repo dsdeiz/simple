@@ -6,5 +6,5 @@ Uses [axis](http://axis.netlify.com/#installation), [rupture](http://jenius.gith
 
 ## Installation
 
-# Copy files over to `themes` directory in the hexo project and change the theme to `simple` under `_config.yml`.
-# Invoke `npm install`.
+1. Copy files over to `themes` directory in the hexo project and change the theme to `simple` under `_config.yml`.
+2. Invoke `npm install`.
